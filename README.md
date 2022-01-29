@@ -1,4 +1,4 @@
-# ♡ ⋆⁺₊⋆ ☾⋆⁺₊⋆ ♡̷̷̷ ⋆⁺₊⋆ ☾⋆⁺₊⋆
+# ʅ(⑅*´◡`)ʃ
 ### Welcome to my world!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
