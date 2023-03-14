@@ -1,5 +1,5 @@
 ## 가영's github
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=rkdudrla&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome%to%my%github&fontSize=50)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
 
