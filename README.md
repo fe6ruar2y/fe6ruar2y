@@ -1,7 +1,7 @@
 ## ✧*｡٩(ˊᗜˋ*)و✧*｡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe6ruar2y&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe6ruar2y&layout=compact)](https://github.com/fe6ruar2y/github-readme-stats)
 
 <!--
 **fe6ruar2y/fe6ruar2y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
