@@ -1,6 +1,6 @@
 ## 가영's github ✨
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20myworld&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
 
 <!--
