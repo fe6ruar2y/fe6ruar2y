@@ -1,4 +1,6 @@
-## 가영's github ✨
+<div align = "center">
+
+# 가영's github ✨ #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
 
