@@ -1,6 +1,6 @@
 <div align = "center">
 
-# h i'm your february 🍅 #
+# hello i'm your february 🍅 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fe6ruar2y&show_icons=true&theme=flag-india)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe6ruar2y&langs_count=8)](https://github.com/fe6ruar2y/github-readme-stats)
